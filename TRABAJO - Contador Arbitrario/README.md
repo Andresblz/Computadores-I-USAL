@@ -9,6 +9,8 @@ Además mostraremos la salida del biestable en GTKWave_
 
 
 ## DIAGRAMA DE ESTADOS
+_Destacar que la secuencia es aleatoria para cada trabajo, por lo que el resultado
+de este podría variar_
 _La secuencia a realizar es: 5 - 14 - 3 - 6 - 12 - 11 - 13 - 4_
 
 _El diagrama elegido (entre las diferentes opciones posibles) es el siguiente:_
